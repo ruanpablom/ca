@@ -1,0 +1,3 @@
+setxkbmap br
+#dropbox
+export PATH="${PATH}:/opt/android-studio/bin:/home/ruan/Android/Sdk/platform-tools:/home/ruan/Android/Sdk/tools:/home/ruan/Dropbox/SCRIPTS"
